@@ -1,0 +1,13 @@
+Intermediate
+Saved
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.pdb
+*.exe
+*-DebugGame.dll
+SurvivalGame/Binaries/Win64/SurvivalGame.exp
+SurvivalGame/Binaries/Win64/SurvivalGame.lib
+*.log
+*.target.xml
