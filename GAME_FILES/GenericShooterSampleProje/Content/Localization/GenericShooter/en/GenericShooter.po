@@ -1,0 +1,915 @@
+﻿# GenericShooter English translation.
+# Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: GenericShooter\n"
+"POT-Creation-Date: 2015-07-17 19:31\n"
+"PO-Revision-Date: 2015-07-17 19:31\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. 2E76AA4541D8BDBEA27B088CF3428F53
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_3_D654A3D44BCF848EB058DB91363D9A15
+msgid "5 Rooms"
+msgstr "5 Rooms"
+
+#. 7E41C71448AEBE516D1FE28087C8F6D0
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_259.Text
+msgid ": "
+msgstr ": "
+
+#. 6ED35DA840FB07AB5A2042B60D7455F4
+#: /Game/GenericShooter/UI/Menus/Settings/WB_InputSettings.WB_InputSettings_C:WidgetTree_3247.AimSensitivity.ButtonText
+msgid "Aim Sensitivity"
+msgstr "Aim Sensitivity"
+
+#. C74157B74A15D127A82EB6A3145AEBE0_Format0
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_Pickup_Ammo.BP_Pickup_Ammo:GetTooltipText.K2Node_FormatText_1.EdGraphPin_109762.DefaultTextValue
+msgid "Already Have Max Ammo For {WeaponName}"
+msgstr "Already Have Max Ammo For {WeaponName}"
+
+#. B117B1C648FA9EBFE8CAA49151624CE5_Format0
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon.BP_BaseWeapon:GetTooltipText.K2Node_FormatText_2.EdGraphPin_34804.DefaultTextValue
+msgid "Already Have {WeaponName}"
+msgstr "Already Have {WeaponName}"
+
+#. 10D19DC947E1991819603B9E11C1ABAC
+#: /Game/GenericShooter/UI/Menus/Settings/WB_AudioSettings.WB_AudioSettings_C:WidgetTree_2994.AnnouncerChoice.ButtonText
+msgid "Announcer Volume"
+msgstr "Announcer Volume"
+
+#. D7CE8782494B6717D10379A237D42F2C
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.AntiAliasingQuality.ButtonText
+msgid "Anti-Aliasing Quality"
+msgstr "Anti-Aliasing Quality"
+
+#. DC9B668146682A923F080192EAF42611_Value1
+#: /Game/GenericShooter/Maps/Stairmaster.Stairmaster:PersistentLevel.PlayerStart.TextRender.Text
+msgid "Any"
+msgstr "Any"
+
+#. 792E5F434B786140C78C38A4573BDBFC
+#: /Game/GenericShooter/UI/Menus/Settings/WB_SettingsNavBar.WB_SettingsNavBar_C:WidgetTree_4269.AudioButton.ButtonText
+msgid "Audio"
+msgstr "Audio"
+
+#. 0CB5D8114F538311E8687E82F78DB751
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.AutoReload.ButtonText
+msgid "Auto Reload When Empty"
+msgstr "Auto Reload When Empty"
+
+#. 0846C2274A78053022229C8EF63C9CDE
+#. 4EE78CCB4FAC38E390188BB447034C06
+#. 903EF9EC41BF9499D2EE95AC8F146879
+#. A2C1230241545E8C190C73ACA7EC6C9C
+#: /Game/GenericShooter/UI/Menus/WB_Customize.WB_Customize_C:WidgetTree_4059.ButtonBar.ButtonTexts
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.ButtonBar.ButtonTexts
+#: /Game/GenericShooter/UI/Menus/Settings/WB_Settings.WB_Settings_C:WidgetTree_6593.ButtonBar.ButtonTexts
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostMode.WB_HostMode_C:WidgetTree_2618.ButtonBar.ButtonTexts
+msgid "Back"
+msgstr "Back"
+
+#. A7ABC1FD407A00747D5165BF679C7A17
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon_InstantHit.Default__BP_BaseWeapon_InstantHit_C.DisplayName
+msgid "Base Instant Hit Weapon"
+msgstr "Base Instant Hit Weapon"
+
+#. 3D5E9396492CC53A77F20E91C58B7A38
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_ProjectileBase.Default__BP_ProjectileBase_C.DisplayName
+msgid "Base Projectile"
+msgstr "Base Projectile"
+
+#. 1BE3D5004937BDA17803DABB821259DC
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon_Projectile.Default__BP_BaseWeapon_Projectile_C.DisplayName
+msgid "Base Projectile Weapon"
+msgstr "Base Projectile Weapon"
+
+#. F76C5E414A90064C095947999C99C964
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon.Default__BP_BaseWeapon_C.DisplayName
+msgid "Base Weapon"
+msgstr "Base Weapon"
+
+#. F7EE9513440D595BB948AD98334BB738
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.Choices
+msgid "Black"
+msgstr "Black"
+
+#. 7812D552450741B5265EF292327079D9
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Blockhead"
+msgstr "Blockhead"
+
+#. 3B4757D843E2489E6AC487896CEF1D4B
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.Choices
+msgid "Blue"
+msgstr "Blue"
+
+#. 5F29C0F44AE234F4044FE39009322432
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Bob Blueprint"
+msgstr "Bob Blueprint"
+
+#. B34D60FB4A1592F208CA22B69F97CC44
+#: /Game/GenericShooter/UI/Menus/WB_ServerListRecord.WB_ServerListRecord_C:WidgetTree_7455.Name.Text
+msgid "Button Text"
+msgstr "Button Text"
+
+#. E97109B449B603FB6E2836AD2EF4F6B4
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.CharacterChoice.ButtonText
+msgid "Character"
+msgstr "Character"
+
+#. E7D3AFF7483B51CC1C090C83287D4243
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgid "Concrete"
+msgstr "Concrete"
+
+#. 508783DD4B194C70FC3385AA53CBED54
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Cone"
+msgstr "Cone"
+
+#. 2C3A1F714DD96EB3CE1CD59DD61B5B93
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ConnectivityChoice.ButtonText
+msgid "Connection Mode"
+msgstr "Connection Mode"
+
+#. 267859624B3FEA58D526AAB8CAA15138
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Cowbrero"
+msgstr "Cowbrero"
+
+#. A13285B94BEEED690EC1DEB751F7296C
+#. D95E9610414BCB256816A6A5AC111C89
+#: /Game/GenericShooter/UI/Menus/WB_Customize.Default__WB_Customize_C.HeaderText
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.CustomizeButton.ButtonText
+msgid "Customize Character"
+msgstr "Customize Character"
+
+#. 386D18764650376393D6ACB2314D5B68
+#. 3CEC8DD74719C3A8DC28548668839CE5
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ModeChoice.Choices
+#: /Game/GenericShooter/BlueprintLogic/GameModes/BP_Deathmatch.Default__BP_Deathmatch_C.GameModeDisplayName
+msgid "Deathmatch"
+msgstr "Deathmatch"
+
+#. 1B1D3BEF453A4A6741554F8405CD5301
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostDeathmatchSettings.WB_HostDeathmatchSettings_C:WidgetTree_2522.SubpanelHeader.Text
+msgid "Deathmatch Settings"
+msgstr "Deathmatch Settings"
+
+#. 2009F7EC4CBBFD067110BDA86367E765
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_318.Text
+msgid "Deaths"
+msgstr "Deaths"
+
+#. 56779E464C7A244D8B93AF86B909B9FF
+#: /Game/GenericShooter/Weapons/Common/Pistol/BP_Pistol.Default__BP_Pistol_C.DisplayName
+msgid "Desert Eagle"
+msgstr "Desert Eagle"
+
+#. 9A2570DD412EB8676634D9870120C0D2
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgid "Dirt"
+msgstr "Dirt"
+
+#. 4C5B80A147F207BBE6695A86F0DBBBC3_InteractButton2
+#. 817112DB448498335705D1A01DF1EB6D_Interact2
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon.BP_BaseWeapon:GetTooltipText.K2Node_FormatText_1.EdGraphPin_34762.DefaultTextValue
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_Pickup_Ammo.BP_Pickup_Ammo:GetTooltipText.K2Node_FormatText_3.EdGraphPin_109811.DefaultTextValue
+msgid "E"
+msgstr "E"
+
+#. 27FB9D044638AC4C3B41A08D43933E44
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.EffectsQuality.ButtonText
+msgid "Effects Quality"
+msgstr "Effects Quality"
+
+#. 6F7EFEEB43578BFF89865D96EC549F12
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.ExitButton.ButtonText
+msgid "Exit"
+msgstr "Exit"
+
+#. 597EC210461250FF4F6890B97A8CCB91
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor3.NewTextRenderComponent.Text
+msgid "Flesh"
+msgstr "Flesh"
+
+#. 570181C84F94E86ED68B9E85A0BB1B9F
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.FriendlyFireChoice.ButtonText
+msgid "Friendly Fire?"
+msgstr "Friendly Fire?"
+
+#. 0EC9485F4DE4E62DA799C0BFF57581BB
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ModeChoice.ButtonText
+msgid "Game Mode"
+msgstr "Game Mode"
+
+#. ADCC9A404B5EDEAFCCAA68A7D7F38DBF
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.SubpanelHeader.Text
+msgid "Game Settings"
+msgstr "Game Settings"
+
+#. 7747943F474653054ED2AC91B5433394
+#: /Game/GenericShooter/UI/Menus/Settings/WB_SettingsNavBar.WB_SettingsNavBar_C:WidgetTree_4269.GameplayButton.ButtonText
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#. 86F39F704DAF8C5B560747815C8CCF07
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.Default__WB_MainMenu_C.HeaderText
+msgid "Generic Shooter"
+msgstr "Generic Shooter"
+
+#. A94A41204E133DA6EC6F649DA1C82EE7
+#: /Game/GenericShooter/UI/HUD/WB_HUD.WB_HUD_C:WidgetTree_3215.TextBlock_165.Text
+msgid "Generic Shooter - 100% Blueprint - Michael Allar"
+msgstr "Generic Shooter - 100% Blueprint - Michael Allar"
+
+#. 302734554CFFEAD155A6258E87C55A9A
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor4.NewTextRenderComponent.Text
+msgid "Glass"
+msgstr "Glass"
+
+#. 02AC36C74C49E22C7590E8B2C4CA2D84
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor5.NewTextRenderComponent.Text
+msgid "Grass"
+msgstr "Grass"
+
+#. B8CD9596443F0430E11E1892782E5621
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.Choices
+msgid "Green"
+msgstr "Green"
+
+#. 79656F354ECBF50298964F89E41C986A
+#: /Game/GenericShooter/Weapons/Common/GrenadeLauncher/Projectiles/BP_Projectile_Grenade.Default__BP_Projectile_Grenade_C.DisplayName
+msgid "Grenade"
+msgstr "Grenade"
+
+#. B8339AC447CF315642ABD88007DCF9C5
+#: /Game/GenericShooter/Weapons/Common/GrenadeLauncher/BP_GrenadeLauncher.Default__BP_GrenadeLauncher_C.DisplayName
+msgid "Grenade Launcher"
+msgstr "Grenade Launcher"
+
+#. F8C43F13450FB8F40DB08FB9DC43190B
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.ButtonText
+msgid "Hat Color"
+msgstr "Hat Color"
+
+#. 5A953C854ACC57351EDA729FDC5AC6E8
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatTypeChoice.ButtonText
+msgid "Hat Type"
+msgstr "Hat Type"
+
+#. 81E505F6466C80E78355188EA4521F0A
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Head"
+msgstr "Head"
+
+#. 15436F93465A95B84C1661BC22E7A327
+#. 419ECA8B4D1139DBA09285BD9D171C70
+#. 53BCDB364395C31934769A97DA7F2964
+#. 9FEEE6D54CD81E54CF9AFEAD08189C9B
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.TextureQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.EffectsQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.PostProcessQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ShadowQuality.Choices
+msgid "High"
+msgstr "High"
+
+#. BE1111404869056A08331A984BE36C83
+#. CED5B7A14412836FD15EBF81D3B0E0D5
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.HostGameButton.ButtonText
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostMode.Default__WB_HostMode_C.HeaderText
+msgid "Host Game"
+msgstr "Host Game"
+
+#. E25F287345E89D0A778B5B8A47C1D45A
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_3_D654A3D44BCF848EB058DB91363D9A15
+msgid "Houses and Stuff"
+msgstr "Houses and Stuff"
+
+#. DDA18FCC4BFF4949DBD1488F984B0536
+#: /Game/GenericShooter/UI/Menus/Settings/WB_SettingsNavBar.WB_SettingsNavBar_C:WidgetTree_4269.InputButton.ButtonText
+msgid "Input"
+msgstr "Input"
+
+#. 8630F77A4BDC5191DCB698832B86FB3F
+#: /Game/GenericShooter/UI/Menus/Settings/WB_InputSettings.WB_InputSettings_C:WidgetTree_3247.InvertY.ButtonText
+msgid "Invert Y Axis"
+msgstr "Invert Y Axis"
+
+#. 7F57D6B8427E4165CF67FFAB32D9B7D4
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.JoinGameButton.ButtonText
+msgid "Join Game"
+msgstr "Join Game"
+
+#. C56260F94E5D5C8736D308A600763FB4
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_TeamInfo.WB_Lobby_TeamInfo_C:WidgetTree_3807.JoinButton.ButtonText
+msgid "Join Team"
+msgstr "Join Team"
+
+#. 75B41B2A42EB82BA737A51A744C1A204
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostDeathmatchSettings.WB_HostDeathmatchSettings_C:WidgetTree_2522.KillLimitChoice.ButtonText
+msgid "Kill Limit"
+msgstr "Kill Limit"
+
+#. ABAA5AA34C954A3E6F207AB16001C5D0
+#. F0B88C364A1898B647E58D98828832D5
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_309.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_239.Text
+msgid "Kills"
+msgstr "Kills"
+
+#. 6C2A2A784EBF0342BF8FBCB9D717B7EF
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ConnectivityChoice.Choices
+msgid "LAN"
+msgstr "LAN"
+
+#. B4DE75AA42AE11B0569D5FB0D4183AE1
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Left Arm"
+msgstr "Left Arm"
+
+#. F1FF5E214C9C264D298A83AACE01DED2
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Left Leg"
+msgstr "Left Leg"
+
+#. 3E3F9CD648477AE14B4D9FB35F79C898
+#. DB5D4DFB47DFB929B6F3128FD19E9B97
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostDeathmatchSettings.WB_HostDeathmatchSettings_C:WidgetTree_2522.MapChoice.ButtonText
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.MapChoice.ButtonText
+msgid "Level"
+msgstr "Level"
+
+#. 49027EA445BBBE77FDDE58A8E788BF96
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.Default__WB_Lobby_C.HeaderText
+msgid "Lobby"
+msgstr "Lobby"
+
+#. 12F68C2A491E87B05D4D29821DF01749
+#. 5BADF54046C90730EBAB8FB45E28DE94
+#. B99F473B472F6C8F9FA784997D19C48E
+#. FA278F334FEA371C0D0513923EA22EEC
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.TextureQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.EffectsQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ShadowQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.PostProcessQuality.Choices
+msgid "Low"
+msgstr "Low"
+
+#. FAF49BBD45FDA838FF2D2283647EEE6D
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_2622.Text
+msgid "Map Vote"
+msgstr "Map Vote"
+
+#. C35D553942BEE9EC43889186E36ACCD1
+#: /Game/GenericShooter/UI/Menus/Settings/WB_AudioSettings.WB_AudioSettings_C:WidgetTree_2994.MasterChoice.ButtonText
+msgid "Master Volume"
+msgstr "Master Volume"
+
+#. 574217D04DC7B7C4BA70C8A01C29EFED
+#. 613E4CB24674884C6BEA2F80309FDE3F
+#. 912D0F204FDCB53460465EBABD1EDD9F
+#. 99D3719143AC116D1838E4A26BC06E50
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.EffectsQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.TextureQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ShadowQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.PostProcessQuality.Choices
+msgid "Max"
+msgstr "Max"
+
+#. 5465500E4F194C8C4C9E2DA777428CC2
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.MaxPlayersChoice.ButtonText
+msgid "Max Players"
+msgstr "Max Players"
+
+#. 1CE6287241DBED7BCCE773B9CD27701A
+#. 975974EB471F3251D8E34FA6056458DC
+#. A4B9F54F4CA8FDA750C0BE86D8AE619B
+#. C3721FD5473791F32163E0ADDFAA54A1
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.PostProcessQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.TextureQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.EffectsQuality.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ShadowQuality.Choices
+msgid "Medium"
+msgstr "Medium"
+
+#. 070BD9604C27DA8A49D926B71183E749
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor6.NewTextRenderComponent.Text
+msgid "Metal"
+msgstr "Metal"
+
+#. 8BA244844FF42C05774A0E82120FC606
+#: /Game/GenericShooter/UI/Menus/Settings/WB_AudioSettings.WB_AudioSettings_C:WidgetTree_2994.Music.ButtonText
+msgid "Music Volume"
+msgstr "Music Volume"
+
+#. 129AF4F74B1DABBC4A9A6A8A806EA9AF
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.TextBlock_464.Text
+msgid "Name"
+msgstr "Name"
+
+#. FE7F3DFF4B50EB7298C51C8731CD7F67
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostMode.WB_HostMode_C:WidgetTree_2618.ButtonBar.ButtonTexts
+msgid "Next"
+msgstr "Next"
+
+#. 4642E1A14E03C26140983D9FCD5D5097
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.TextBlock_776.Text
+msgid "No Servers Found"
+msgstr "No Servers Found"
+
+#. AAFACBE642DBAD25F0DD8E91825A1D8B
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "None"
+msgstr "None"
+
+#. 08F8174745EF26D3D0B993A4276486EC
+#. 3E57AEBE4C042EFD0016F5AD1F00BA76
+#. 8D9B2F0947621732978E8CBC7364C399
+#. BEA236FB43D41930E37F5B90BAB9668D
+#. E491B4F44E2300F91DC5018FD1CB1563
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings:WidgetTree.HatTypeChoice.Choices
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.CharacterChoice.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_InputSettings.WB_InputSettings_C:WidgetTree_3247.AimSensitivity.Choices
+#: /Game/GenericShooter/UI/Menus/WB_MenuChoice.Default__WB_MenuChoice_C.Choices
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatTypeChoice.Choices
+msgid "Not Initialized"
+msgstr "Not Initialized"
+
+#. A7A0757540EEAB5F0CBA75B8633F6908
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.TeamCountChoices.ButtonText
+msgid "Number of Teams"
+msgstr "Number of Teams"
+
+#. 321EDCF546D2A553F800DD9976BCF14B
+#. 42253FC0422E15AE311518B7D6FFEC6B
+#. 571238174E1A997E09BC598D402DD1EA
+#. 91AB5C734DCE1F50418639B8BA57056D
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.FriendlyFireChoice.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.ToggleIronsights.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_InputSettings.WB_InputSettings_C:WidgetTree_3247.InvertY.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.AutoReload.Choices
+msgid "Off"
+msgstr "Off"
+
+#. 14EE850F46A7BEDF776AB7B7E22FA993
+#. 179466DC4CD7C95F5D3B0E8796C50245
+#. 783C09304EBA0BB6A7D8E7A5BA913D99
+#. F77D18FA4274B7523597BB99A2E385C5
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.FriendlyFireChoice.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_InputSettings.WB_InputSettings_C:WidgetTree_3247.InvertY.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.AutoReload.Choices
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.ToggleIronsights.Choices
+msgid "On"
+msgstr "On"
+
+#. A29C18E84FC6686EC1FEB89BA3B7BDC5
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ConnectivityChoice.Choices
+msgid "Online"
+msgstr "Online"
+
+#. 0BCE23494AA8756DBADAF981ECE3BD4C
+#. 0FF2AD6E45CCFD6908AEE79EDC252A4E
+#. 125C64424C2EBDD7066F7DB057385D6A
+#. 1780DAAA46D6E96D6FDBCBA3F7DBF06E
+#. 1ACCE1A44DF578A4135F2C9882643DC3
+#. 1DC157E94631FDCAAFEB2E9CE949C53E
+#. 1F87B74945A7B5D6578944BAD67AE8D9
+#. 2324B81B464CB18C8382EE8D66FDC7E0
+#. 269BC11A436B8D379A27F4977DC17B74
+#. 27E30BAD4720D93A10D552947EC2A35A
+#. 38BB342D438263C6B3E03999FFB739F0
+#. 3F875C0B48A9DF2FFE58C393C181796B_Option 00
+#. 4E15914042D3E968AF1707B7ADEDB3E9
+#. 4F5EAADA442035758714BEB2A4643C04
+#. 4F69655D4F13B8A650BC9A8FD15BBAEE
+#. 4FC456FA42A44BB42E91D2945F6F9A15
+#. 5792D45047940101BDB03A96B3F6F7B8
+#. 5A4C5C53402E2D13829BF19FC8CD6C47
+#. 5F415B2F469D74844785B1A63D755B48
+#. 615FD2354BAA7928A07CDA9C3E4F86FB
+#. 62BB85E34962FCCED06779B51C3486B3
+#. 6AFAEBF0453D23A6F1D1DFAB0DC5ED2B
+#. 76AF03DF451F5865067B8CB74B06E10B
+#. 842A85044564DCD518D8D299BC88500F
+#. 88278F364F82352F4AAC2C845D42FA90
+#. 923B7CF94A51EA6B596098987EB65A5C
+#. 95C03D6F470E0C3E42B40798AF71171B
+#. 98D11B0E4EB19F6E09F48AAD3881FBB0
+#. 9B0F5062489F712384220CAAD2A9C199
+#. 9C6A4C924FC5885725641FA052226424
+#. A08232AE483B878082568EB56280B056
+#. A0DB76024F57F94FE30A029A199140F9
+#. A19ED351429101A8DAC122B0D3491B74
+#. A59BBCE5486D70D4FD1581A1210FF850
+#. AA4DBEF44B6F5A4A1B532CB05411D529
+#. ABADF9444DD30D82F0D58E8C786A72D9
+#. B84A32EE487F6F61CE2807BD5A9482E5
+#. C1DDF6EE4836C67EC122DB8A19B16396
+#. C7CB86FB4FB6B7446550C99050D0B6B0
+#. C91519D7475D16CF101D798168932DE9_Option 00
+#. CE9299A443624151D95DB8B66BDBB47F
+#. D35C8A1E489288A0F18D34A37B790CE2
+#. E0FF72DF4F2F93DB3351199F7F84AAEB
+#. E104A021421A66BC2E50EFA702757A07
+#. E786BE78429A773AF075F190712800E1
+#. EC30A49A41EE8CDB279A51BD59ED1D3E
+#. EC8E940C4FDD774E0819179F5B9EEB09
+#. F14A945F4C3E5A2E09A4948B4BC7B138
+#. F38779804A75EA2FC27A228B573AE7CF
+#. F8495CED4B9589E6B392378AC74B2C65
+#. F98CBF85481FEBA9FB8A8D94B3AE6A07
+#. F9D0B23B4C1F0BEB25CBE19CC560F5FA
+#. FF691D95417FAD9308CCFD99713167C1
+#. FFDE87CB4ED85A967FBAC580C596BCC7
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.ScoreText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow_C:WidgetTree_466.PingText.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_PlayerRecord.WB_Lobby_PlayerRecord:WidgetTree.PingText.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_TeamInfo.WB_Lobby_TeamInfo_C:WidgetTree_3807.TextBlock_176.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_145.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow_C:WidgetTree_466.KillsText.Text
+#: /Game/GenericShooter/UI/Menus/Settings/WB_Settings.WB_Settings_C:WidgetTree_6593.Header.Text
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostMode.WB_HostMode_C:WidgetTree_2618.TextBlock_199.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_MapVote.WB_Lobby_MapVote:WidgetTree.TextBlock_3209.Text
+#: /Game/GenericShooter/UI/HUD/KillFeed/WB_KillFeedRow.WB_KillFeedRow:WidgetTree.VictimLabel.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow:WidgetTree.DeathsText.Text
+#: /Game/GenericShooter/UI/Menus/Settings/WB_SettingsNavBar.WB_SettingsNavBar:GetSelectedNavText.K2Node_Select_7.EdGraphPin_139791.DefaultTextValue
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_MapVote.WB_Lobby_MapVote_C:WidgetTree_456.TextBlock_3024.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow:WidgetTree.KillsText.Text
+#: /Game/GenericShooter/UI/HUD/Chat/WB_ChatMessage.WB_ChatMessage_C:WidgetTree_3478.MessageText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard_C:WidgetTree_7227.TextBlock_26.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_147.Text
+#: /Game/GenericShooter/UI/Menus/WB_MenuButton.WB_MenuButton_C:WidgetTree_3115.Label.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_MapVote.WB_Lobby_MapVote:WidgetTree.TextBlock_3024.Text
+#: /Game/GenericShooter/UI/HUD/KillFeed/WB_KillFeedRow.WB_KillFeedRow_C:WidgetTree_7545.VictimLabel.Text
+#: /Game/GenericShooter/UI/HUD/KillFeed/WB_KillFeedRow.WB_KillFeedRow_C:WidgetTree_7545.WeaponLabel.Text
+#: /Game/GenericShooter/UI/HUD/KillFeed/WB_KillFeedRow.WB_KillFeedRow:WidgetTree.KillerLabel.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_PlayerRecord.WB_Lobby_PlayerRecord_C:WidgetTree_7139.PingText.Text
+#: /Game/GenericShooter/UI/HUD/WB_HUD.WB_HUD:WidgetTree_1.InteractText.Text
+#: /Game/GenericShooter/UI/Menus/WB_MenuChoice.WB_MenuChoice_C:WidgetTree_4385.Label.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_135.Text
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.TextBlock_62.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow_C:WidgetTree_466.DeathsText.Text
+#: /Game/GenericShooter/BlueprintLogic/Teams/BP_TeamInfo.Default__BP_TeamInfo_C.TeamName
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_134.Text
+#: /Game/GenericShooter/UI/HUD/WB_HUD.WB_HUD_C:WidgetTree_3215.AmmoText.Text
+#: /Game/GenericShooter/UI/HUD/KillFeed/WB_KillFeedRow.WB_KillFeedRow_C:WidgetTree_7545.KillerLabel.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_PlayerRecord.WB_Lobby_PlayerRecord_C:WidgetTree_7139.NameText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard_C:WidgetTree_7227.WinnerDisplayText.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_MapVote.WB_Lobby_MapVote_C:WidgetTree_456.TextBlock_3209.Text
+#: /Game/GenericShooter/UI/Menus/Settings/WB_Settings.WB_Settings:WidgetTree_26.Header.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow_C:WidgetTree_466.PlayerText.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.TextBlock_137.Text
+#: /Game/GenericShooter/UI/Menus/WB_ServerListRecord.WB_ServerListRecord_C:WidgetTree_7455.PlayerCount.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby:GetLobbyStatusText.K2Node_Select_137.EdGraphPin_19760.DefaultTextValue
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard_C:WidgetTree_7227.TextBlock_29.Text
+#: /Game/GenericShooter/UI/Menus/WB_Customize.WB_Customize_C:WidgetTree_4059.TextBlock_199.Text
+#: /Game/GenericShooter/UI/HUD/WB_HUD.WB_HUD_C:WidgetTree_3215.InteractText.Text
+#: /Game/GenericShooter/UI/Menus/WB_MenuButton.WB_MenuButton:WidgetTree.Label.Text
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.TextBlock_199.Text
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby_TeamInfo.WB_Lobby_TeamInfo:WidgetTree.TextBlock_176.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TeamNameText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard_C:WidgetTree_7227.TextBlock_25.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow:WidgetTree.PingText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_ScoreboardRow.WB_ScoreboardRow:WidgetTree.PlayerText.Text
+#: /Game/GenericShooter/UI/HUD/Chat/WB_ChatMessage.WB_ChatMessage:WidgetTree.MessageText.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard_C:WidgetTree_7227.TextBlock_193.Text
+#: /Game/GenericShooter/UI/Menus/WB_ServerListRecord.WB_ServerListRecord_C:WidgetTree_7455.Ping.Text
+#: /Game/GenericShooter/UI/HUD/WB_HUD.WB_HUD_C:WidgetTree_3215.HealthText.Text
+msgid "PLACEHOLDER"
+msgstr "PLACEHOLDER"
+
+#. CF87FCC3464ACFFB1E55BD9C3E574DCC
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor9.NewTextRenderComponent.Text
+msgid "Physical Material Impact Testing"
+msgstr "Physical Material Impact Testing"
+
+#. 705EA5BA4C148D3D26325199EF3355BA
+#. 971E730342DFA961ACF9299DE9CE8AAC
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.TextBlock_499.Text
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_79.Text
+msgid "Ping"
+msgstr "Ping"
+
+#. 6B65D64B479D9A40F68EA7B35F77140A
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard_TeamList.WB_Scoreboard_TeamList_C:WidgetTree_1957.TextBlock_308.Text
+msgid "Player"
+msgstr "Player"
+
+#. 2D0D17AF4F140F60921D57AD1C5F987F
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.TextBlock_493.Text
+msgid "Players"
+msgstr "Players"
+
+#. 7C8F45EB4D27443129728C925612E769
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.PostProcessQuality.ButtonText
+msgid "Post Process Quality"
+msgstr "Post Process Quality"
+
+#. 4C5B80A147F207BBE6695A86F0DBBBC3_Format0
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_BaseWeapon.BP_BaseWeapon:GetTooltipText.K2Node_FormatText_1.EdGraphPin_34760.DefaultTextValue
+msgid "Press {InteractButton} To Pickup {WeaponName}"
+msgstr "Press {InteractButton} To Pickup {WeaponName}"
+
+#. 817112DB448498335705D1A01DF1EB6D_Format0
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_Pickup_Ammo.BP_Pickup_Ammo:GetTooltipText.K2Node_FormatText_3.EdGraphPin_109809.DefaultTextValue
+msgid "Press {Interact} To Pickup {WeaponName} Ammo"
+msgstr "Press {Interact} To Pickup {WeaponName} Ammo"
+
+#. 2DAFCFDC440A9CFD6F89E1B652B6B61F
+#. E408BA4449FCF5B5B246C6A9C09C9DBF
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.ButtonBar.ButtonTexts
+#: /Game/GenericShooter/UI/Menus/WB_MidGameMenu.WB_MidGameMenu_C:WidgetTree_2960.QuitButton.ButtonText
+msgid "Quit"
+msgstr "Quit"
+
+#. 2220021048EFEE01B018EEA5968F1400_Option 00
+#. EF30B9224AB901E39E2D5185BB873BEB
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby:EventGraph.K2Node_Select_12.EdGraphPin_19844.DefaultTextValue
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby_C:WidgetTree_7416.ButtonBar.ButtonTexts
+msgid "Ready"
+msgstr "Ready"
+
+#. 6E58F677489BDF8A35E36692623C7F49_Option 11
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby:GetLobbyStatusText.K2Node_Select_49.EdGraphPin_19833.DefaultTextValue
+msgid "Ready up..."
+msgstr "Ready up..."
+
+#. F85FF0994D88B73B38EC258976684ED3
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.Choices
+msgid "Red"
+msgstr "Red"
+
+#. 4984C419449644F0B0C888A3329D645C
+#. 7EBF20374CD50AA0791FA68805779C3D_NewText1
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList_C:WidgetTree_3786.ButtonBar.ButtonTexts
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList:EventGraph.K2Node_MacroInstance_1105.EdGraphPin_144517.DefaultTextValue
+msgid "Refresh"
+msgstr "Refresh"
+
+#. D06FC7E046DE5EB1EDF797963F70342A_NewText1
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.WB_ServerList:EventGraph.K2Node_MacroInstance_1040.EdGraphPin_144526.DefaultTextValue
+msgid "Refreshing..."
+msgstr "Refreshing..."
+
+#. 874CFA3E411DCFAAF353E0A37883F0C4
+#: /Game/GenericShooter/UI/Menus/WB_MidGameMenu.WB_MidGameMenu_C:WidgetTree_2960.ResumeButton.ButtonText
+msgid "Resume"
+msgstr "Resume"
+
+#. C6BC925B4DBBC6D648257AAFE0CD9CC2
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Right Arm"
+msgstr "Right Arm"
+
+#. 7758D9594CB32C84874089993FF20B44
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Right Leg"
+msgstr "Right Leg"
+
+#. CDD599D942C766E9E02D4880E2B6B648
+#: /Game/GenericShooter/Weapons/Common/RocketLauncher/Projectiles/BP_Projectile_Rocket.Default__BP_Projectile_Rocket_C.DisplayName
+msgid "Rocket"
+msgstr "Rocket"
+
+#. CCDB089C4601902C8C8890BEEFDD1F1B
+#: /Game/GenericShooter/Weapons/Common/RocketLauncher/BP_RocketLauncher.Default__BP_RocketLauncher_C.DisplayName
+msgid "Rocket Launcher"
+msgstr "Rocket Launcher"
+
+#. 1FC0C2AA4B6DF541E3A83DB41282D155
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostDeathmatchSettings.WB_HostDeathmatchSettings_C:WidgetTree_2522.RoundTimeChoice.ButtonText
+msgid "Round Time"
+msgstr "Round Time"
+
+#. D924064446FB83C764091290B3214248
+#: /Game/GenericShooter/UI/Menus/Settings/WB_AudioSettings.WB_AudioSettings_C:WidgetTree_2994.SFXChoice.ButtonText
+msgid "SFX Volume"
+msgstr "SFX Volume"
+
+#. DD1A01774023EAFBE419A1B8BB6E4327
+#: /Game/GenericShooter/UI/HUD/Chat/WB_ChatInput.WB_ChatInput_C:WidgetTree_35189.Label.Text
+msgid "Say:"
+msgstr "Say:"
+
+#. EF390F1B462C6AC3699F69B8D41F9A51
+#: /Game/GenericShooter/Weapons/Common/Rifle/BP_Rifle.Default__BP_Rifle_C.DisplayName
+msgid "Scar"
+msgstr "Scar"
+
+#. 2E0D3B204D8DD5A3D77E13AB09E82956
+#: /Game/GenericShooter/UI/Menus/WB_ServerList.Default__WB_ServerList_C.HeaderText
+msgid "Server List"
+msgstr "Server List"
+
+#. F5B7D6BE48614FC04B3D98B1814982F1
+#. F73D27F0431A476EF6B481A41DEA71C9
+#: /Game/GenericShooter/UI/Menus/WB_MainMenu.WB_MainMenu_C:WidgetTree_3458.SettingsButton.ButtonText
+#: /Game/GenericShooter/UI/Menus/Settings/WB_Settings.Default__WB_Settings_C.HeaderText
+msgid "Settings"
+msgstr "Settings"
+
+#. AC85B96B473603C9E7DDE697CB3FD227
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ShadowQuality.ButtonText
+msgid "Shadow Quality"
+msgstr "Shadow Quality"
+
+#. B7BDF01A43AB9BB8B82317AA575D26A6
+#: /Game/GenericShooter/Weapons/Common/Rifle/BP_SuperRifle.Default__BP_SuperRifle_C.DisplayName
+msgid "Shotgun"
+msgstr "Shotgun"
+
+#. 41975B7B42F98182D817B09A55E564C8
+#: /Game/GenericShooter/BlueprintLogic/Teams/BP_Team_SlitheringSnails.Default__BP_Team_SlitheringSnails_C.TeamName
+msgid "Slithering Snails"
+msgstr "Slithering Snails"
+
+#. 5122CC614585FEB7B9B28E9ABB7CD230
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_3_D654A3D44BCF848EB058DB91363D9A15
+msgid "Stairmaster"
+msgstr "Stairmaster"
+
+#. 2851AACD46C4513D99F4F48731ADA0D3
+#: /Game/GenericShooter/BlueprintLogic/Teams/BP_Team_SwagasaurusRex.Default__BP_Team_SwagasaurusRex_C.TeamName
+msgid "Swagasaurus Rex"
+msgstr "Swagasaurus Rex"
+
+#. 3DB6D7EB4FA6C604CAA7B5B91764C28E
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor10_3.NewTextRenderComponent.Text
+msgid "Team 0 Color"
+msgstr "Team 0 Color"
+
+#. 48DD28FB4045082ABA17D0BBF453D3D7
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor11.NewTextRenderComponent.Text
+msgid "Team 1 Color"
+msgstr "Team 1 Color"
+
+#. 12E2DD42451E2D22B50B049CBDA18CB3
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
+msgid "Team 2 Color"
+msgstr "Team 2 Color"
+
+#. A598BA354A41351EF28C4D942F64BF3B
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
+msgid "Team 3 Color"
+msgstr "Team 3 Color"
+
+#. C483A74941A5CD57415BA9866826D37E
+#. CE197F354F5B2589994ECF9F0CD1BC12
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostGameSettings.WB_HostGameSettings_C:WidgetTree_2482.ModeChoice.Choices
+#: /Game/GenericShooter/BlueprintLogic/GameModes/BP_TeamDeathmatch.Default__BP_TeamDeathmatch_C.GameModeDisplayName
+msgid "Team Deathmatch"
+msgstr "Team Deathmatch"
+
+#. 1FAB3040413C97A4DAECA79F7B006478
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostTeamDeathmatchSettings.WB_HostTeamDeathmatchSettings_C:WidgetTree_7099.SubpanelHeader.Text
+msgid "Team Deathmatch Settings"
+msgstr "Team Deathmatch Settings"
+
+#. 070444C749942989276734B44DDFFF71
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Teapot"
+msgstr "Teapot"
+
+#. F6A1025B4AC6E55DE95D48889FEE23BE
+#: /Game/GenericShooter/Maps/TestMap.Default__TestMap_C.LevelDisplayName
+msgid "Test Map"
+msgstr "Test Map"
+
+#. 689CFD32466E6A6773973FBAA98B16A8
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.TextureQuality.ButtonText
+msgid "Texture Quality"
+msgstr "Texture Quality"
+
+#. 7D448CAB4E70F6C12D60E3A230E03E02
+#: /Game/GenericShooter/BlueprintLogic/Teams/BP_Team_Dragonauts.Default__BP_Team_Dragonauts_C.TeamName
+msgid "The Dragonauts"
+msgstr "The Dragonauts"
+
+#. 1AFE1DE141EF2C4548EC13B69EF1AFDB
+#: /Game/GenericShooter/BlueprintLogic/Teams/BP_Team_TheOrder.Default__BP_Team_TheOrder_C.TeamName
+msgid "The Order"
+msgstr "The Order"
+
+#. 67A0092C4E7C3A8A5AD538A2754DC833_OutWinText2
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard:GetWinnerText.K2Node_VariableSet_419.EdGraphPin_10376.DefaultTextValue
+msgid "The match has ended in a tie!"
+msgstr "The match has ended in a tie!"
+
+#. 29EB29974B51E1D798C053A05E4A2FD1
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Tim Plate"
+msgstr "Tim Plate"
+
+#. 112BE2414E4F44D6251F0E955737AE6B
+#: /Game/GenericShooter/UI/Menus/Settings/WB_GameplaySettings.WB_GameplaySettings_C:WidgetTree_36137.ToggleIronsights.ButtonText
+msgid "Toggle Ironsights"
+msgstr "Toggle Ironsights"
+
+#. 8C3ADD74482BD0B6ADC89F9F4182BFB7
+#: /Game/GenericShooter/BlueprintLogic/Engine/BP_GameInstance.Default__BP_GameInstance_C.DisplayName_4_43EDFBBD4A6636C480585593639C4CCC
+msgid "Top Hat"
+msgstr "Top Hat"
+
+#. 4B5ED937438E15E2F8F4989B20F31755
+#: /Game/GenericShooter/Maps/Menu.Menu:PersistentLevel.BP_PlayerCharacter2.DisplayName_2_840C7A9046A2C16A11AD1CB50FF31631
+msgid "Torso"
+msgstr "Torso"
+
+#. 0BCE8D5748303E9A33B1E897E9D82FEA
+#: /Game/GenericShooter/UI/Menus/Settings/WB_AudioSettings.WB_AudioSettings_C:WidgetTree_2994.UIChoice.ButtonText
+msgid "UI Volume"
+msgstr "UI Volume"
+
+#. 2220021048EFEE01B018EEA5968F1400_Option 11
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby:EventGraph.K2Node_Select_12.EdGraphPin_19845.DefaultTextValue
+msgid "Unready"
+msgstr "Unready"
+
+#. 8DB84BA64183F18F247B89838D62998A
+#: /Game/GenericShooter/UI/Menus/Settings/WB_SettingsNavBar.WB_SettingsNavBar_C:WidgetTree_4269.VideoButton.ButtonText
+msgid "Video"
+msgstr "Video"
+
+#. C7556BF246A7B95FCCDEA3AB5EA56292
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ViewDistanceChoice.ButtonText
+msgid "View Distance"
+msgstr "View Distance"
+
+#. C91519D7475D16CF101D798168932DE9_Option 11
+#: /Game/GenericShooter/UI/Menus/Lobby/WB_Lobby.WB_Lobby:GetLobbyStatusText.K2Node_Select_137.EdGraphPin_19761.DefaultTextValue
+msgid "Waiting on Map Vote..."
+msgstr "Waiting on Map Vote..."
+
+#. 27EDE65A4FA5D042E686B7BAEB7DEFA9
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor7.NewTextRenderComponent.Text
+msgid "Water"
+msgstr "Water"
+
+#. 020C0DBE4F763B85B11BD293A63E9405
+#: /Game/GenericShooter/UI/Menus/WB_BasicCustomizeSettings.WB_BasicCustomizeSettings_C:WidgetTree_3394.HatColorChoice.Choices
+msgid "White"
+msgstr "White"
+
+#. A84D3FBD42A5DAC9BE23AE9D283DDDF5
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
+msgid "Wood"
+msgstr "Wood"
+
+#. C7AC29A14864CF579844CC8F2E9FA022
+#: /Game/GenericShooter/Maps/TestMap.TestMap:PersistentLevel.Actor_1.TextRender.Text
+msgid "World Origin"
+msgstr "World Origin"
+
+#. FFC814614E86A851A0FAB6B3F6BFB474_Format0
+#: /Game/GenericShooter/BlueprintLogic/Weapons/BP_Pickup_Ammo.BP_Pickup_Ammo:GetTooltipText.K2Node_FormatText_2.EdGraphPin_109753.DefaultTextValue
+msgid "You Don't Have A Suitable Weapon For This Ammo"
+msgstr "You Don't Have A Suitable Weapon For This Ammo"
+
+#. 1D1CCC0D46D6C4FB1046D09276AFF659_Format0
+#: /Game/GenericShooter/UI/Menus/HostGame/WB_HostDeathmatchSettings.WB_HostDeathmatchSettings:EventGraph.K2Node_FormatText_51.EdGraphPin_114151.DefaultTextValue
+msgid "{Minutes} Minutes"
+msgstr "{Minutes} Minutes"
+
+#. 45BF9939407A12CCC94EDD970F52674F_Format0
+#: /Game/GenericShooter/UI/HUD/Scoreboard/WB_Scoreboard.WB_Scoreboard:GetWinnerText.K2Node_FormatText_1.EdGraphPin_9974.DefaultTextValue
+msgid "{PlayerName} has won the match!"
+msgstr "{PlayerName} has won the match!"
+
+#. High
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ViewDistanceChoice.Choices
+msgctxt "Settings"
+msgid "High"
+msgstr "High"
+
+#. Low
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ViewDistanceChoice.Choices
+msgctxt "Settings"
+msgid "Low"
+msgstr "Low"
+
+#. Max
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ViewDistanceChoice.Choices
+msgctxt "Settings"
+msgid "Max"
+msgstr "Max"
+
+#. Medium
+#: /Game/GenericShooter/UI/Menus/Settings/WB_VideoSettings.WB_VideoSettings_C:WidgetTree_36073.ViewDistanceChoice.Choices
+msgctxt "Settings"
+msgid "Medium"
+msgstr "Medium"
+
+#. SettingsPane
+#: /Game/GenericShooter/UI/Menus/Settings/WB_Settings.WB_Settings_C:WidgetTree_6593.SubpanelHeader.Text
+msgctxt "Settings"
+msgid "Settings Pane"
+msgstr "Settings Pane"
+
